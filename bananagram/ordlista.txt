@@ -1,4 +1,4 @@
-abandon
+﻿abandon
 abandonen
 abbe
 abbedissa
@@ -70458,4 +70458,5 @@ zygot
 övärld
 övärldar
 övärlden
-#
+att
+allt
